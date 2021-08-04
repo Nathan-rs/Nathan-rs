@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 - Full Stack web developwe.</br>
-📚 - Academic em computer science.
+💻 - Full Stack web developer.</br>
+📚 - Academic in computer science.
